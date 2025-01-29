@@ -1,5 +1,5 @@
-📊 Video Game Sales Analysis (1980–2020)
-📝 Introduction
+***📊 Video Game Sales Analysis (1980–2020)***
+*📝 Introduction*
 This project analyzes global video game sales data from 1980 to 2020, highlighting key trends in genre popularity, platform performance, regional sales, and top publishers. By leveraging historical data, the analysis uncovers insights into market dynamics, best-selling games, and factors influencing sales trends over the decades.
 
 📌 Key Highlights
